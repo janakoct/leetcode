@@ -1,5 +1,10 @@
 package leetcode.easyproblems;
 
+/**
+ * 
+ * @author Janak Mehta
+ * @link: https://leetcode.com/problems/palindrome-number/#/description
+ */
 public class PalindromeNumber {
 
 	public boolean isPalindrome(int x) {
