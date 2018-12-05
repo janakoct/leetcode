@@ -23,7 +23,6 @@ public class ReshapeMatrix {
 		return returnMatrix;
     }
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int[][] nums = {{1,2,3,4},
 		{1,2,3,4}};
 		System.out.println(nums.length);
